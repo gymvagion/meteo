@@ -11,11 +11,11 @@
 Arduino Starter kit   
 Waveshare Environmental Sensor - BME280   
 Waveshare Dust Sensor 
-HC05 Bluetooth module
+HC05 Bluetooth module   (2τμχ)
 BH1750FVI Digital Light Sensor Module For Arduino   
-Weather Meters kit   (Wind Vane, Cup Anemometer, Tipping Bucket Rain Gauge, Mounting Mast, Rain Gauge Mounting Arm, Wind Meter Mounting Bar, Mounting Clamps   
+Weather Meters kit   (Wind Vane, Cup Anemometer, Tipping Bucket Rain Gauge, Mounting Mast, Rain Gauge Mounting Arm, Wind Meter Mounting Bar, Mounting Clamps)   
 10A Solar Panel Battery Regulator - Charge Controller 12V/24V  
-6V 3.5W 583mA Monocrystalline Silicon Solar Panel   
+6V 3.5W 583mA Monocrystalline Silicon Solar Panel   (2τμχ)
 CCS811 Air Quality Sensor Breakout - VOC & eCO2.
 
 

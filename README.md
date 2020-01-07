@@ -8,7 +8,7 @@
 4) Την *σύνδεση* των μαθημάτων της Φυσικής, των Μαθηματικών και της Πληροφορικής
 
 Για την συγκεκριμένη κατασκευή θα χρειαστούμε 
-Arduino Starter kit 
+Arduino Starter kit
 Waveshare Environmental Sensor - BME280
 Waveshare Dust Sensor
 HC05 Bluetooth module

@@ -8,23 +8,16 @@
 4) Την *σύνδεση* των μαθημάτων της Φυσικής, των Μαθηματικών και της Πληροφορικής
 
 Για την συγκεκριμένη κατασκευή θα χρειαστούμε 
- (1)	Μικροελεγκτής Arduino Uno R3 ή Mega 2560
-(1)	Μίνι Bread Board
-(1)	Σετ καλώδια σύνδεσης 
-(1)	Καλώδιο USB
-(1)	T-type 2.1 mm φις για τροφοδοσία Arduino
-(1)	DHT11 module για μέτρηση θερμοκρασίας και υγρασίας
-(1)	Module για ανίχνευση βροχής
-(1)	LCD Display 2 γραμμών
-(1)	Αισθητήρας Ambient light
-(1)	Αισθητήρας ακτινοβολίας UV 
-(1)   Αισθητήρας Βαρομετρικής πίεσης
-(2)	Πομποδέκτες bluetooth
-(1)	Επαναφορτιζόμενη μπαταρία 12V
-(1)	Controller φόρτισης
-(1)	Μίνι ηλιακό πάνελ τουλάχιστον 10W
-(2)	Τροφοδοτικά Step Down
-(1)	Πλαστικό κουτί κατασκευών
+Arduino Starter kit 
+Waveshare Environmental Sensor - BME280
+Waveshare Dust Sensor
+HC05 Bluetooth module
+BH1750FVI Digital Light Sensor Module For Arduino
+Weather Meters kit (Wind Vane, Cup Anemometer, Tipping Bucket Rain Gauge, Mounting Mast, Rain Gauge Mounting Arm, Wind Meter Mounting Bar, Mounting Clamps)
+10A Solar Panel Battery Regulator - Charge Controller 12V/24V
+6V 3.5W 583mA Monocrystalline Silicon Solar Panel
+CCS811 Air Quality Sensor Breakout - VOC & eCO2
 
-Προαιρετικά μπορεί να χρησιμοποιηθει (1)	Ανεμόμετρο για κατεύθυνση και ταχύτητα ανέμου
+
+
 
